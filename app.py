@@ -1,3 +1,2 @@
-import os
-API_KEY = os.getenv("API_KEY")
-print("safe code running")
+API_KEY ="1234s"
+print("hello world")

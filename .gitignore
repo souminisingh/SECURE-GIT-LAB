@@ -1,3 +1,3 @@
-newfile.env
+.env
 *.key
 secrets.yaml
